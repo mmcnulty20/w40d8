@@ -7,3 +7,6 @@ class Array
     end
 end
 
+# add some more code
+
+# ...a whole day of coding
